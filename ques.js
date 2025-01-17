@@ -1,0 +1,22 @@
+const quiz = [
+    { question: "What is the capital of France?", options: ["Berlin", "London", "Paris", "Madrid"], answer: "Paris" },
+    { question: "Which language is used for web apps?", options: ["Python", "JavaScript", "Java", "C++"], answer: "JavaScript" },
+    { question: "What year did HTML5 launch?", options: ["2008", "2010", "2014", "2012"], answer: "2014" },
+    { question: "Which planet is known as the Red Planet?", options: ["Earth", "Mars", "Jupiter", "Venus"], answer: "Mars" },
+    { question: "Who wrote 'Hamlet'?", options: ["Charles Dickens", "William Shakespeare", "J.K. Rowling", "Mark Twain"], answer: "William Shakespeare" },
+    { question: "What is the largest ocean on Earth?", options: ["Atlantic", "Indian", "Pacific", "Arctic"], answer: "Pacific" },
+    { question: "Which element has the chemical symbol 'O'?", options: ["Gold", "Oxygen", "Osmium", "Silver"], answer: "Oxygen" },
+    { question: "What is 9 + 10?", options: ["19", "21", "20", "18"], answer: "19" },
+    { question: "Which country is famous for the Great Wall?", options: ["India", "China", "Japan", "Korea"], answer: "China" },
+    { question: "What is the hardest natural substance?", options: ["Gold", "Diamond", "Iron", "Silver"], answer: "Diamond" },
+    { question: "Who painted the Mona Lisa?", options: ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"], answer: "Leonardo da Vinci" },
+    { question: "What is the square root of 64?", options: ["6", "7", "8", "9"], answer: "8" },
+    { question: "Which gas do plants absorb?", options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], answer: "Carbon Dioxide" },
+    { question: "How many continents are there?", options: ["5", "6", "7", "8"], answer: "7" },
+    { question: "What is the tallest mountain in the world?", options: ["K2", "Kangchenjunga", "Mount Everest", "Makalu"], answer: "Mount Everest" },
+    { question: "Which country gifted the Statue of Liberty to the USA?", options: ["France", "England", "Germany", "Italy"], answer: "France" },
+    { question: "Which organ pumps blood in the human body?", options: ["Lungs", "Heart", "Kidneys", "Liver"], answer: "Heart" },
+    { question: "What is H2O commonly known as?", options: ["Salt", "Water", "Oxygen", "Hydrogen"], answer: "Water" },
+    { question: "Which is the smallest continent?", options: ["Asia", "Australia", "Europe", "Antarctica"], answer: "Australia" },
+    { question: "Who discovered gravity?", options: ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Nikola Tesla"], answer: "Isaac Newton" }
+];
